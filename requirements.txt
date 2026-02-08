@@ -1,0 +1,16 @@
+# --- Azure Core & Identity ---
+azure-identity
+azure-mgmt-costmanagement
+azure-cosmos
+
+# --- Backend & API (Optionnel si tu utilises Streamlit uniquement) ---
+fastapi
+uvicorn
+
+# --- Data & Dashboard ---
+streamlit
+pandas
+plotly
+
+# --- Utils ---
+python-dotenv
