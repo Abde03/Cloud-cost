@@ -1,49 +1,35 @@
+## Clo
+
+## Project Description
+
+A modern, responsive dashboard built with React and TypeScript. Features real-time data visualization, user authentication, and a clean, intuitive UI.
 
 # Getting Started
 
-## Prerequisites
-- Node.js (v14 or higher)
-- npm or yarn package manager
+# --- Azure Core & Identity ---
+azure-identity
+azure-mgmt-costmanagement
+azure-cosmos
+
+# --- Backend & API (Optionnel si tu utilises Streamlit uniquement) ---
+fastapi
+uvicorn
+
+# --- Data & Dashboard ---
+streamlit
+pandas
+plotly
+
+# --- Utils ---
+python-dotenv
 
 ## Installation
 
 1. Clone the repository
 ```bash
-git clone <repository-url>
-cd dashboard
+git clone https://github.com/Abde03/Cloud-cost
+cd Cloud-Cost
 ```
-
-2. Install dependencies
-```bash
-npm install
-```
-
-## Running the Project
-
-3. Start the development server
-```bash
-npm start
-```
-
-4. Open your browser and navigate to `http://localhost:3000`
-
-## Building for Production
-
-5. Create an optimized build
-```bash
-npm run build
-```
-
-## Additional Commands
-
-- `npm test` - Run tests
-- `npm run lint` - Check code quality
-- `npm run format` - Format code with Prettier
-- `npm run eject` - Eject from Create React App (irreversible)
-
-## Project Description
-
-A modern, responsive dashboard built with React and TypeScript. Features real-time data visualization, user authentication, and a clean, intuitive UI.
 
 ## Badges
 
